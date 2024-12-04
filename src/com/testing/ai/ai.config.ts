@@ -16,7 +16,7 @@ const currentDateTime = new Date(Date.now())
 
 
 const AI_Config: PlaywrightTestConfig={
-    testDir: './tests',
+    testDir: '.src/com/testing/tests',
     expect: { timeout: 5000 },
     timeout: 200000,
 

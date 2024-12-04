@@ -8,7 +8,6 @@ export default defineConfig({
 
     {
       name: 'ai',
-      ...AI_Config,
 
     },
 
